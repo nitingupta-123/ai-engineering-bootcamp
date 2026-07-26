@@ -1,6 +1,6 @@
 # What is Embedding?
 
-https://www.youtube.com/watch?v=vr0MHUMZPv8
+How Vector Embeddings Work (with 3D Visualization) : https://www.youtube.com/watch?v=vr0MHUMZPv8
 
 Embeddings are representations of values or objects like text, images, and audio that are designed to be consumed by machine learning models and semantic search algorithms. They translate objects like these into a mathematical form according to the factors or traits each one may or may not have, and the categories they belong to.
 
