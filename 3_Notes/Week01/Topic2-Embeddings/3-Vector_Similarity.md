@@ -1,3 +1,6 @@
+Cosine Similarity, Clearly Explained!!! by StatQuest with Josh Starmer
+http://www.youtube.com/watch?v=e9U0QAFbfLI
+
 # What is vector similarity?
 Vector similarity is the process of measuring how close two vectors are in that multi-dimensional space. When vectors are close together, the data they represent is semantically similar. When they're far apart, the data is unrelated. Vector similarity connects raw data to meaningful AI outputs through a pipeline of embeddings, semantic relationships, similarity metrics, and search algorithms. It's the foundation for semantic search, RAG, recommendation systems, AI agent memory, and most modern AI features.
 # **Semantic relationships**
