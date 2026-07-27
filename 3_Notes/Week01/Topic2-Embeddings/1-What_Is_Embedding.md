@@ -1,6 +1,22 @@
 # What is Embedding?
 
-How Vector Embeddings Work (with 3D Visualization) : https://www.youtube.com/watch?v=vr0MHUMZPv8
+How Vector Embeddings Work (with 3D Visualization) : 
+https://www.youtube.com/watch?v=vr0MHUMZPv8
+
+How AI Turns Words Into Vectors: Embeddings (by BlackBoard AI)
+Link: https://www.youtube.com/watch?v=lPTcTh5sRug
+
+Word Embedding and Word2Vec, Clearly Explained!!! (by StatQuest)
+Link: https://www.youtube.com/watch?v=viZrOnJclY0
+
+What are Word Embeddings? (by IBM Technology)
+Link: https://www.youtube.com/watch?v=wgfSDrqYMJ4
+
+Vector Databases simply explained! (Embeddings & Indexes) (by AssemblyAI)
+Link: https://www.youtube.com/watch?v=dN0lsF2cvm4
+
+A Beginner's Guide to Vector Embeddings (by Colin Talks Tech)
+Link: https://www.youtube.com/watch?v=NEreO2zlXDk
 
 Embeddings are representations of values or objects like text, images, and audio that are designed to be consumed by machine learning models and semantic search algorithms. They translate objects like these into a mathematical form according to the factors or traits each one may or may not have, and the categories they belong to.
 
